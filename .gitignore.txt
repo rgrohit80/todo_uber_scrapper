@@ -1,0 +1,8 @@
+Script
+Lib
+include
+pyvenv.cfg
+/venv
+/.idea
+**/.pyc
+*.pyc
